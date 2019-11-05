@@ -1,0 +1,6 @@
+echo "# lwsj" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/chochi2323/lwsj.git
+git push -u origin master
